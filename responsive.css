@@ -76,4 +76,7 @@
    footer{
        text-align: center;
    }
+   .list-text{
+       font-size: 10px;
+   }
 }
