@@ -82,4 +82,11 @@
    .list-title{
        font-size: 20px;
    }
+   .list-img{
+       width: 100%;
+       margin-bottom: 20px;
+   }
+   .list-text{
+       width: 100%;
+   }
 }
